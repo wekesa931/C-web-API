@@ -16,3 +16,5 @@ C:\Users\Windows 10 Pro\Desktop\playground\c#\webapi\TestWebApi\obj\Debug\netcor
 C:\Users\Windows 10 Pro\Desktop\playground\c#\webapi\TestWebApi\obj\Debug\netcoreapp3.0\TestWebApi.RazorTargetAssemblyInfo.cache
 C:\Users\Windows 10 Pro\Desktop\playground\c#\webapi\TestWebApi\obj\Debug\netcoreapp3.0\TestWebApi.dll
 C:\Users\Windows 10 Pro\Desktop\playground\c#\webapi\TestWebApi\obj\Debug\netcoreapp3.0\TestWebApi.pdb
+C:\Users\Windows 10 Pro\Desktop\playground\c#\webapi\TestWebApi\obj\Debug\netcoreapp3.0\TestWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Desktop\playground\c#\webapi\TestWebApi\obj\Debug\netcoreapp3.0\TestWebApi.genruntimeconfig.cache
